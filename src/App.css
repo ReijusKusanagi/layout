@@ -22,7 +22,6 @@ body{
   display: flex; 
   margin-bottom: 20px;
   height: 600px;
-
 }
 
 .content1 {
@@ -36,14 +35,14 @@ body{
   flex: 3;
   background-color: #d8c8e5;
   padding: 20px;
-  margin-bottom: 20px ;
+  margin-bottom: 20px;
 }
 
 .sidebar{
   flex: 5;
   background-color: #a1c265;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 5px; 
 }
 
 .content2 {
@@ -63,12 +62,12 @@ body{
   flex: 3;
   background-color: #898989;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 5px; 
 }
 
 .relatedContent {
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 20px; 
 }
 .relatedImages{
   flex: 7;
