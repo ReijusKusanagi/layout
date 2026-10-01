@@ -12,12 +12,12 @@ function App() {
       <div className="content">
         <div className="content1">
           <div className="hero">Hero</div>
-          <div className="sidebar">sidebar</div>
+          <div className="sidebar">Sidebar</div>
         </div>
 
         <div className="content2">
-          <div className="mainContent">mainContent</div>
-          <div className="extraContent">extraContent</div>
+          <div className="mainContent">Main Content</div>
+          <div className="extraContent">Extra Content</div>
         </div>
       </div>
 

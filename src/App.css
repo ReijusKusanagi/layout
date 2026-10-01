@@ -42,7 +42,7 @@ body{
   flex: 5;
   background-color: #a1c265;
   padding: 20px;
-  margin-bottom: 5px; 
+  margin-bottom: 10px; 
 }
 
 .content2 {
@@ -62,13 +62,14 @@ body{
   flex: 3;
   background-color: #898989;
   padding: 20px;
-  margin-bottom: 5px; 
+  margin-bottom: 10
 }
 
 .relatedContent {
   display: flex;
   margin-bottom: 20px; 
 }
+
 .relatedImages{
   flex: 7;
   background-color: #2db776;
